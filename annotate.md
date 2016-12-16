@@ -21,5 +21,5 @@
 - Try to avoid small inconsistencies like using "science" and "the sciences" intermittently
 - Keep tags simple and short
 
-## Post to public
-- Once you've finished writing your annotation, click the button to "Post to public"
+## Post to Frankenstein group
+- Once you've finished writing your annotation, click the button to "Post to Frankenstein Project"
